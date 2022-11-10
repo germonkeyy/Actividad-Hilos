@@ -9,7 +9,7 @@ Primera actualización: Se creó la ventana con el cuadro de búsqueda, y el bot
 
 
 
-####Actualización
+### Actualización
 Se complementó a modo de que al buscar una o varias películas, o buscar géneros salgan los resultados esperados.
 
 
